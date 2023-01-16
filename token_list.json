@@ -48,6 +48,18 @@
       },
       {
           "chainId": 246,
+          "address": "0x26E4991a72728b1a9B1044345e5bF9293E0A1434",
+          "name": "SolarCoin",
+          "decimals": 18,
+          "symbol": "SLR",
+          "logoURI": "https://raw.githubusercontent.com/Ace-Of-Fades/Assets/main/logos/0x26E4991a72728b1a9B1044345e5bF9293E0A1434.png",
+          "tags": [
+              "green",
+              "native"
+          ]
+      },
+      {
+          "chainId": 246,
           "address": "0x9cd9CAECDC816C3E7123A4F130A91A684D01f4Dc",
           "name": "Susu Token",
           "decimals": 18,

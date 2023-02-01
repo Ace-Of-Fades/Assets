@@ -54,7 +54,6 @@
           "symbol": "SSH",
           "logoURI": "https://raw.githubusercontent.com/Ace-Of-Fades/Assets/main/logos/0x95B4C14cf3AE761F08C0a3eC391B4F9E38B91456.png",
           "tags": [
-              "green",
               "native"
           ]
       },
@@ -77,7 +76,6 @@
           "symbol": "SLR",
           "logoURI": "https://raw.githubusercontent.com/Ace-Of-Fades/Assets/main/logos/0x26E4991a72728b1a9B1044345e5bF9293E0A1434.png",
           "tags": [
-              "green",
               "native"
           ]
       },
@@ -100,7 +98,8 @@
           "symbol": "SMUDGE",
           "logoURI": "https://raw.githubusercontent.com/Ace-Of-Fades/Assets/main/logos/0x3Dae074A5B125B9847e41b5Ee20aC86D92ab77b1.png",
           "tags": [
-              "native"
+              "native",
+			  "no like dogs"
           ]
       },
       {
@@ -200,28 +199,6 @@
         "logoURI": "https://raw.githubusercontent.com/Ace-Of-Fades/Assets/main/logos/0xc6c6239614723298591f16bB2f779C9199b5AB1a.png",
         "tags": [
             "native"
-        ]
-    },
-    {
-        "chainId": 246,
-        "address": "0xA0Bf7285394026C452a6dd571b189733AD1d5834",
-        "name": "Doge Alliance",
-        "decimals": 18,
-        "symbol": "WDOGEALLY",
-        "logoURI": "https://raw.githubusercontent.com/EWDOGE/assets/master/CarbonPaws/logo/0xA0Bf7285394026C452a6dd571b189733AD1d5834.png",
-        "tags": [
-            "bridged"
-        ]
-    },
-    {
-        "chainId": 246,
-        "address": "0x312Da1D704fe871435968c4C2f987cDc1287F78A",
-        "name": "PAX Gold",
-        "decimals": 18,
-        "symbol": "WPAXG",
-        "logoURI": "https://raw.githubusercontent.com/EWDOGE/assets/master/CarbonPaws/logo/0x312Da1D704fe871435968c4C2f987cDc1287F78A.png",
-        "tags": [
-            "bridged"
         ]
     },
     {

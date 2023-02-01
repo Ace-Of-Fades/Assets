@@ -37,6 +37,18 @@
       },
       {
           "chainId": 246,
+          "address": "0x95B4C14cf3AE761F08C0a3eC391B4F9E38B91456",
+          "name": "ShapeShifter",
+          "decimals": 18,
+          "symbol": "SSH",
+          "logoURI": "https://raw.githubusercontent.com/Ace-Of-Fades/Assets/main/logos/0x95B4C14cf3AE761F08C0a3eC391B4F9E38B91456.png",
+          "tags": [
+              "green",
+              "native"
+          ]
+      },
+      {
+          "chainId": 246,
           "address": "0xcCf4e983B930B97F9cC0d2A20E66AFb781537cFc",
           "name": "renBTC",
           "decimals": 8,
